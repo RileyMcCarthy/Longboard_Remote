@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LongboardRemote)(type Legacy)(uri Z:/Documents/GIT/Longboard_Remote/Hardware/Librarys/LongboardRemote.lib)(options "")(descr ""))
+  (lib (name MAD_Board)(type Legacy)(uri Z:/Documents/GIT/MAD_Board/Hardware/Librarys/MAD_Board.lib)(options "")(descr ""))
+)

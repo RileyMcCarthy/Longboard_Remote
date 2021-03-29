@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LongboardRemote)(type KiCad)(uri ${KIPRJMOD}/LongboardRemote.pretty)(options "")(descr ""))
+)
